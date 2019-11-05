@@ -12,21 +12,21 @@ The comment for interview repo
 
 - 数据库
   - [MySQL](http://interview.wzcu.com/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL.html)
-- 算法
-  - [算法](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95.html)
-  - [经典排序](./算法/经典排序)
-    - [冒泡排序](#)
-    - [选择排序](#)
-    - [插入排序](#)
-    - [希尔排序](#)
-    - [归并排序](#)
-    - [堆排序](#)
-
 - Redis
   - [Redis](http://interview.wzcu.com/Linux/linux.html)
 - 网络
   - [网络](http://interview.wzcu.com/%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%BB%9C.html) 
-- Leetcode
+- 算法
+  - [经典排序](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/%E7%BB%8F%E5%85%B8%E6%8E%92%E5%BA%8F/readme.html)
+    - [冒泡排序](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/%E7%BB%8F%E5%85%B8%E6%8E%92%E5%BA%8F/bubble.html)
+    - [选择排序](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/%E7%BB%8F%E5%85%B8%E6%8E%92%E5%BA%8F/selection.html)
+    - [插入排序](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/%E7%BB%8F%E5%85%B8%E6%8E%92%E5%BA%8F/insertion.html)
+    - [希尔排序](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/%E7%BB%8F%E5%85%B8%E6%8E%92%E5%BA%8F/shell.html)
+    - [归并排序](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/%E7%BB%8F%E5%85%B8%E6%8E%92%E5%BA%8F/mergeSort.html)
+    - [堆排序](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/%E7%BB%8F%E5%85%B8%E6%8E%92%E5%BA%8F/heapSort.html)
+  - [简单算法](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95.html)  
+  - [KMP算法和BF算法](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/BF%E7%AE%97%E6%B3%95%E5%92%8CKMP%E7%AE%97%E6%B3%95.html)  
+- 刷题
   - [Leetcode](http://interview.wzcu.com/Leetcode/Leetcode.html)
     - [删除链表中的节点](http://interview.wzcu.com/Leetcode/code/delete_node)
     - [反转链表](http://interview.wzcu.com/Leetcode/code/reverse_list_node/)
@@ -46,3 +46,4 @@ The comment for interview repo
     - [排序链表](http://interview.wzcu.com/Leetcode/code/sort_list/)
     - [搜索旋转排序数组](http://interview.wzcu.com/Leetcode/code/search_in_rotated_sorted_array/)
     - [数组中的第K个最大元素](http://interview.wzcu.com/Leetcode/code/kth_largest_element_in_an_array/)
+    - [反转字符串中的单词 III](http://interview.wzcu.com/Leetcode/code/reverse-words-in-a-string-iii/)
