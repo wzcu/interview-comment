@@ -1,7 +1,7 @@
 # interview-comment
-The comment for interview repo
+The repo for interview 
 
-# 收集各种面试题,主要是自己做,本repo是作为评论用的,具体详情可去页面看!  
+# 收集各种面试题,主要是自己学习整理和自己做点题...  
 
 ## [http://interview.wzcu.com/](http://interview.wzcu.com/)
 
