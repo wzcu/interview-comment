@@ -20,9 +20,11 @@ The repo for interview
   - [并发](http://interview.wzcu.com/%E8%AE%BE%E8%AE%A1%E9%A2%98/%E5%B9%B6%E5%8F%91%E9%97%AE%E9%A2%98.html)
   - [带有权重的随机算法](http://interview.wzcu.com/%E8%AE%BE%E8%AE%A1%E9%A2%98/%E5%B8%A6%E6%9C%89%E6%9D%83%E9%87%8D%E7%9A%84%E9%9A%8F%E6%9C%BA%E7%AE%97%E6%B3%95.html)
   - [限流](http://interview.wzcu.com/%E8%AE%BE%E8%AE%A1%E9%A2%98/%E9%99%90%E6%B5%81.html)
-  - [分布式锁](http://interview.wzcu.com/%E8%AE%BE%E8%AE%A1%E9%A2%98/%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81.html)  
+  - [分布式锁](http://interview.wzcu.com/%E8%AE%BE%E8%AE%A1%E9%A2%98/%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81.html)
+  - [秒杀](http://interview.wzcu.com/%E8%AE%BE%E8%AE%A1%E9%A2%98/%E7%A7%92%E6%9D%80.html)  
 - 算法
   - [简单算法](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95.html)  
+  - [大公司经典](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/%E5%A4%A7%E5%85%AC%E5%8F%B8%E7%BB%8F%E5%85%B8/classic.html)
   - [KMP算法和BF算法](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/BF%E7%AE%97%E6%B3%95%E5%92%8CKMP%E7%AE%97%E6%B3%95.html)
   * [二分法查找](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%88%86%E6%B3%95%E6%9F%A5%E6%89%BE.html)
   * [动态规划](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92.html)
