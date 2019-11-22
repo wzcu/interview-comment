@@ -22,6 +22,8 @@ The repo for interview
   - [限流](http://interview.wzcu.com/%E8%AE%BE%E8%AE%A1%E9%A2%98/%E9%99%90%E6%B5%81.html)
   - [分布式锁](http://interview.wzcu.com/%E8%AE%BE%E8%AE%A1%E9%A2%98/%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81.html)
   - [秒杀](http://interview.wzcu.com/%E8%AE%BE%E8%AE%A1%E9%A2%98/%E7%A7%92%E6%9D%80.html)  
+  - [一致性hash](http://interview.wzcu.com/%E8%AE%BE%E8%AE%A1%E9%A2%98/%E4%B8%80%E8%87%B4%E6%80%A7hash.html)
+  - [数据库分片](http://interview.wzcu.com/%E8%AE%BE%E8%AE%A1%E9%A2%98/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%88%86%E7%89%87.html)
 - 算法
   - [简单算法](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95.html)  
   - [大公司经典](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/%E5%A4%A7%E5%85%AC%E5%8F%B8%E7%BB%8F%E5%85%B8/classic.html)
