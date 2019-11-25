@@ -26,6 +26,8 @@ The repo for interview
   - [数据库分片](http://interview.wzcu.com/%E8%AE%BE%E8%AE%A1%E9%A2%98/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%88%86%E7%89%87.html)
 - 算法
   - [简单算法](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95.html)  
+  - [Times33](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/Times33.html)
+  - [Redlock算法](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/redlock%E7%AE%97%E6%B3%95.html)
   - [大公司经典](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/%E5%A4%A7%E5%85%AC%E5%8F%B8%E7%BB%8F%E5%85%B8/classic.html)
   - [KMP算法和BF算法](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/BF%E7%AE%97%E6%B3%95%E5%92%8CKMP%E7%AE%97%E6%B3%95.html)
   * [二分法查找](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%88%86%E6%B3%95%E6%9F%A5%E6%89%BE.html)
