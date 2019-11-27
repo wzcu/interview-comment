@@ -17,6 +17,10 @@ The repo for interview
   - [压缩列表和连锁更新](http://interview.wzcu.com/Redis/%E5%8E%8B%E7%BC%A9%E5%88%97%E8%A1%A8.html)
 - 网络
   - [网络](http://interview.wzcu.com/%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%BB%9C.html) 
+- 数据结构
+  - [数据结构](http://interview.wzcu.com/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.html)
+- 云
+  - [云](http://interview.wzcu.com/%E4%BA%91/readme.html)  
 - 设计题
   - [并发](http://interview.wzcu.com/%E8%AE%BE%E8%AE%A1%E9%A2%98/%E5%B9%B6%E5%8F%91%E9%97%AE%E9%A2%98.html)
   - [带有权重的随机算法](http://interview.wzcu.com/%E8%AE%BE%E8%AE%A1%E9%A2%98/%E5%B8%A6%E6%9C%89%E6%9D%83%E9%87%8D%E7%9A%84%E9%9A%8F%E6%9C%BA%E7%AE%97%E6%B3%95.html)
@@ -30,7 +34,6 @@ The repo for interview
   - [Times33](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/Times33.html)
   - [Redlock算法](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/redlock%E7%AE%97%E6%B3%95.html)
   - [大公司经典](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/%E5%A4%A7%E5%85%AC%E5%8F%B8%E7%BB%8F%E5%85%B8/classic.html)
-  - [KMP算法和BF算法](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/BF%E7%AE%97%E6%B3%95%E5%92%8CKMP%E7%AE%97%E6%B3%95.html)
   * [二分法查找](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%88%86%E6%B3%95%E6%9F%A5%E6%89%BE.html)
   * [动态规划](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92.html)
   * [BF算法和KMP算法](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/BF%E7%AE%97%E6%B3%95%E5%92%8CKMP%E7%AE%97%E6%B3%95.html)
@@ -43,6 +46,8 @@ The repo for interview
       - [希尔排序](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/%E7%BB%8F%E5%85%B8%E6%8E%92%E5%BA%8F/shell.html)
       - [归并排序](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/%E7%BB%8F%E5%85%B8%E6%8E%92%E5%BA%8F/mergeSort.html)
       - [堆排序](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/%E7%BB%8F%E5%85%B8%E6%8E%92%E5%BA%8F/heapSort.html) 
+- 其他
+  - [时间复杂度](http://interview.wzcu.com/other/time.html)
 - 刷题
   - [Leetcode](http://interview.wzcu.com/Leetcode/Leetcode.html)
     - [删除链表中的节点](http://interview.wzcu.com/Leetcode/code/delete_node)
