@@ -69,3 +69,5 @@ The repo for interview
     - [买卖股票的最佳时机](http://interview.wzcu.com/Leetcode/code/best_time_to_buy_and_sell_stock/)
     - [买卖股票的最佳时机 ii](http://interview.wzcu.com/Leetcode/code/best_time_to_buy_and_sell_stock_ii/)
     
+    
+[今日更新日志](./today.md)
