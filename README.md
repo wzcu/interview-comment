@@ -73,6 +73,8 @@ The repo for interview
     - [最大子序和](http://interview.wzcu.com/Leetcode/code/maximum_subarray/)
     - [买卖股票的最佳时机](http://interview.wzcu.com/Leetcode/code/best_time_to_buy_and_sell_stock/)
     - [买卖股票的最佳时机 ii](http://interview.wzcu.com/Leetcode/code/best_time_to_buy_and_sell_stock_ii/)
-    
+    - [合并两个有序数组](http://interview.wzcu.com/Leetcode/code/merge_sorted_array/)
+    - [最小路径和](http://interview.wzcu.com/Leetcode/code/minimum_path_sum/)
+
     
 [今日更新日志](./today.md)
