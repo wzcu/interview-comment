@@ -77,6 +77,6 @@ The repo for interview
     - [合并两个有序数组](http://interview.wzcu.com/Leetcode/code/merge_sorted_array/)
     - [最小路径和](http://interview.wzcu.com/Leetcode/code/minimum_path_sum/)
     - [不同路径](http://interview.wzcu.com/Leetcode/code/unique_paths/)
-    - [不同路径 ii](.http://interview.wzcu.com/Leetcode/code/unique_paths_ii/)
+    - [不同路径 ii](http://interview.wzcu.com/Leetcode/code/unique_paths_ii/)
     
 [今日更新日志](./today.md)
