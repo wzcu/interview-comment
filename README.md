@@ -16,7 +16,8 @@ The repo for interview
   - [Redis](http://interview.wzcu.com/Linux/linux.html)
   - [压缩列表和连锁更新](http://interview.wzcu.com/Redis/%E5%8E%8B%E7%BC%A9%E5%88%97%E8%A1%A8.html)
 - 网络
-  - [网络](http://interview.wzcu.com/%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%BB%9C.html) 
+  - [网络](http://interview.wzcu.com/%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%BB%9C.html)
+  - [HTTPS原理](http://interview.wzcu.com/%E7%BD%91%E7%BB%9C/HTTPS%E5%8E%9F%E7%90%86.html) 
 - 数据结构
   - [数据结构](http://interview.wzcu.com/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.html)
 - 云
@@ -75,6 +76,7 @@ The repo for interview
     - [买卖股票的最佳时机 ii](http://interview.wzcu.com/Leetcode/code/best_time_to_buy_and_sell_stock_ii/)
     - [合并两个有序数组](http://interview.wzcu.com/Leetcode/code/merge_sorted_array/)
     - [最小路径和](http://interview.wzcu.com/Leetcode/code/minimum_path_sum/)
-
+    - [不同路径](http://interview.wzcu.com/Leetcode/code/unique_paths/)
+    - [不同路径 ii](.http://interview.wzcu.com/Leetcode/code/unique_paths_ii/)
     
 [今日更新日志](./today.md)
