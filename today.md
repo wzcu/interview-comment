@@ -14,3 +14,7 @@
   - 做两个动归题目
      - [不同路径](http://interview.wzcu.com/Leetcode/code/unique_paths/)
      - [不同路径 ii](http://interview.wzcu.com/Leetcode/code/unique_paths_ii/)    
+- 2019-12-03
+  - 今天被一个hard题目难住了..发现要用回朔算法来解..学习一下
+  - 临时加了 回朔算法 概念
+    - [回朔算法](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/%E5%9B%9E%E6%9C%94%E7%AE%97%E6%B3%95.html)
