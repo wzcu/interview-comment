@@ -18,3 +18,11 @@
   - 今天被一个hard题目难住了..发现要用回朔算法来解..学习一下
   - 临时加了 回朔算法 概念
     - [回朔算法](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/%E5%9B%9E%E6%9C%94%E7%AE%97%E6%B3%95.html)
+- 2019-12-04
+  - 昨天太伤了.知道自己有多菜了.. 递归遍历二维数组我写了好久.. 最后抄java写法写出来的.....
+  - 今天更新了点`redis`和`mysql`知识,另外,要赶紧看看 MySQL的`binlog`  
+    - redis
+      - [Redis五大对象类型和其底层实现?](http://interview.wzcu.com/Redis/Redis.html#redis%E4%BA%94%E5%A4%A7%E5%AF%B9%E8%B1%A1%E7%B1%BB%E5%9E%8B%E5%92%8C%E5%85%B6%E5%BA%95%E5%B1%82%E5%AE%9E%E7%8E%B0)
+      - [怎么保持Redis缓存里的数据与数据库里的一致?](http://interview.wzcu.com/Redis/Redis.html#%E6%80%8E%E4%B9%88%E4%BF%9D%E6%8C%81redis%E7%BC%93%E5%AD%98%E9%87%8C%E7%9A%84%E6%95%B0%E6%8D%AE%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%BA%93%E9%87%8C%E7%9A%84%E4%B8%80%E8%87%B4)
+    - mysql
+      - [什么是MySQL XA事务?](http://interview.wzcu.com/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL.html#%E4%BB%80%E4%B9%88%E6%98%AFmysql-xa%E4%BA%8B%E5%8A%A1)
