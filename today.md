@@ -26,3 +26,7 @@
       - [怎么保持Redis缓存里的数据与数据库里的一致?](http://interview.wzcu.com/Redis/Redis.html#%E6%80%8E%E4%B9%88%E4%BF%9D%E6%8C%81redis%E7%BC%93%E5%AD%98%E9%87%8C%E7%9A%84%E6%95%B0%E6%8D%AE%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%BA%93%E9%87%8C%E7%9A%84%E4%B8%80%E8%87%B4)
     - mysql
       - [什么是MySQL XA事务?](http://interview.wzcu.com/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL.html#%E4%BB%80%E4%B9%88%E6%98%AFmysql-xa%E4%BA%8B%E5%8A%A1)
+- 2019-12-05
+  - 今天有活,写接口呢...另外,简单研究了下 通道,因为通道这块用的还是太少了.得写一写
+  - 另外,确定了 map和slice 都有多线程读写的问题!       
+      
