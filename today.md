@@ -64,3 +64,6 @@
   - 网络
     - [孤儿进程,僵尸进程,守护进程？](http://interview.wzcu.com/%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%BB%9C.html#%E5%AD%A4%E5%84%BF%E8%BF%9B%E7%A8%8B%E5%83%B5%E5%B0%B8%E8%BF%9B%E7%A8%8B%E5%AE%88%E6%8A%A4%E8%BF%9B%E7%A8%8B%EF%BC%9F)    
     - [写时复制(Copy On Write)？](http://interview.wzcu.com/%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%BB%9C.html#%E5%86%99%E6%97%B6%E5%A4%8D%E5%88%B6copy-on-write%EF%BC%9F)    
+- 2019-12-20
+  - 得再看看 innodb的 那个什么..  发现真他喵的看不完啊...
+  - [binlog](http://interview.wzcu.com/%E6%95%B0%E6%8D%AE%E5%BA%93/binlog.html)

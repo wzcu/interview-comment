@@ -12,6 +12,7 @@ The repo for interview
 
 - 数据库
   - [MySQL](http://interview.wzcu.com/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL.html)
+  - [binlog](http://interview.wzcu.com/%E6%95%B0%E6%8D%AE%E5%BA%93/binlog.html)
 - Redis
   - [Redis](http://interview.wzcu.com/Redis/Redis.html)
   - [压缩列表和连锁更新](http://interview.wzcu.com/Redis/%E5%8E%8B%E7%BC%A9%E5%88%97%E8%A1%A8.html)
