@@ -69,3 +69,5 @@
 - 2019-12-20
   - 得再看看 innodb的 那个什么..  发现真他喵的看不完啊...
   - [binlog](http://interview.wzcu.com/%E6%95%B0%E6%8D%AE%E5%BA%93/binlog.html)
+- 2019-12-21
+  - 学习一下跳跃表的操作..明天再更新  
