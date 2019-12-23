@@ -71,3 +71,8 @@
   - [binlog](http://interview.wzcu.com/%E6%95%B0%E6%8D%AE%E5%BA%93/binlog.html)
 - 2019-12-21
   - 学习一下跳跃表的操作..明天再更新  
+- 2019-12-22
+  - 没记啥
+- 2019-12-23
+  - 早上因为看有人说mysql的rr隔离级别,怎么解决幻读的问题,所以更新下
+  - [MVCC和Next-Key Locks](http://interview.wzcu.com/%E6%95%B0%E6%8D%AE%E5%BA%93/MVCC%E5%92%8CNext-Key%20Locks.html)  

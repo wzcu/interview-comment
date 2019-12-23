@@ -9,10 +9,12 @@ The repo for interview
   
   * [基础](http://interview.wzcu.com/Golang/%E5%9F%BA%E7%A1%80.html)
   * [代码考题](http://interview.wzcu.com/Golang/%E4%BB%A3%E7%A0%81%E8%80%83%E9%A2%98.html)
+  * [内存对齐](http://interview.wzcu.com/Golang/golang%E5%86%85%E5%AD%98%E5%AF%B9%E9%BD%90.html)
 
 - 数据库
   - [MySQL](http://interview.wzcu.com/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL.html)
   - [binlog](http://interview.wzcu.com/%E6%95%B0%E6%8D%AE%E5%BA%93/binlog.html)
+  - [MVCC和Next-Key Locks](http://interview.wzcu.com/%E6%95%B0%E6%8D%AE%E5%BA%93/MVCC%E5%92%8CNext-Key%20Locks.html)  
 - Redis
   - [Redis](http://interview.wzcu.com/Redis/Redis.html)
   - [压缩列表和连锁更新](http://interview.wzcu.com/Redis/%E5%8E%8B%E7%BC%A9%E5%88%97%E8%A1%A8.html)
@@ -24,7 +26,8 @@ The repo for interview
 - 数据结构
   - [数据结构](http://interview.wzcu.com/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.html)
 - 云
-  - [云](http://interview.wzcu.com/%E4%BA%91/readme.html)  
+  - [云](http://interview.wzcu.com/%E4%BA%91/readme.html) 
+  - [docker基础了解](http://interview.wzcu.com/%E4%BA%91/docker%E5%9F%BA%E7%A1%80%E4%BA%86%E8%A7%A3.html) 
 - 设计题
   - [并发](http://interview.wzcu.com/%E8%AE%BE%E8%AE%A1%E9%A2%98/%E5%B9%B6%E5%8F%91%E9%97%AE%E9%A2%98.html)
   - [带有权重的随机算法](http://interview.wzcu.com/%E8%AE%BE%E8%AE%A1%E9%A2%98/%E5%B8%A6%E6%9C%89%E6%9D%83%E9%87%8D%E7%9A%84%E9%9A%8F%E6%9C%BA%E7%AE%97%E6%B3%95.html)
