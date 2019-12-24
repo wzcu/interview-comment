@@ -78,3 +78,8 @@
   - [MVCC和Next-Key Locks](http://interview.wzcu.com/%E6%95%B0%E6%8D%AE%E5%BA%93/MVCC%E5%92%8CNext-Key%20Locks.html)  
 - 2019-12-24
   - 凌晨做一题出来
+     - [螺旋矩阵 II](http://interview.wzcu.com/Leetcode/code/spiral_matrix_ii/)
+  - 白天一题
+     - [螺旋矩阵](http://interview.wzcu.com/Leetcode/code/spiral_matrix/)      
+  - 更新数据库相关
+     - [乐观锁和悲观锁](http://interview.wzcu.com/%E6%95%B0%E6%8D%AE%E5%BA%93/%E4%B9%90%E8%A7%82%E9%94%81%E5%92%8C%E6%82%B2%E8%A7%82%E9%94%81.html)

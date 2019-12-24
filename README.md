@@ -15,6 +15,7 @@ The repo for interview
   - [MySQL](http://interview.wzcu.com/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL.html)
   - [binlog](http://interview.wzcu.com/%E6%95%B0%E6%8D%AE%E5%BA%93/binlog.html)
   - [MVCC和Next-Key Locks](http://interview.wzcu.com/%E6%95%B0%E6%8D%AE%E5%BA%93/MVCC%E5%92%8CNext-Key%20Locks.html)  
+  - [乐观锁和悲观锁](http://interview.wzcu.com/%E6%95%B0%E6%8D%AE%E5%BA%93/%E4%B9%90%E8%A7%82%E9%94%81%E5%92%8C%E6%82%B2%E8%A7%82%E9%94%81.html)
 - Redis
   - [Redis](http://interview.wzcu.com/Redis/Redis.html)
   - [压缩列表和连锁更新](http://interview.wzcu.com/Redis/%E5%8E%8B%E7%BC%A9%E5%88%97%E8%A1%A8.html)
@@ -23,6 +24,7 @@ The repo for interview
 - 网络
   - [网络](http://interview.wzcu.com/%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%BB%9C.html)
   - [HTTPS原理](http://interview.wzcu.com/%E7%BD%91%E7%BB%9C/HTTPS%E5%8E%9F%E7%90%86.html) 
+  - [Nginx](http://interview.wzcu.com/%E7%BD%91%E7%BB%9C/nginx.html) 
 - 数据结构
   - [数据结构](http://interview.wzcu.com/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.html)
 - 云
@@ -87,5 +89,6 @@ The repo for interview
     - [不同路径 ii](http://interview.wzcu.com/Leetcode/code/unique_paths_ii/)
     - [设计链表](http://interview.wzcu.com/Leetcode/code/design_linked_list/)
     - [螺旋矩阵 II](http://interview.wzcu.com/Leetcode/code/spiral_matrix_ii/)
-
+    - [螺旋矩阵](http://interview.wzcu.com/Leetcode/code/spiral_matrix/) 
+     
 [今日更新日志](./today.md)
