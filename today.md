@@ -84,3 +84,13 @@
   - 更新数据库相关
      - [乐观锁和悲观锁](http://interview.wzcu.com/%E6%95%B0%E6%8D%AE%E5%BA%93/%E4%B9%90%E8%A7%82%E9%94%81%E5%92%8C%E6%82%B2%E8%A7%82%E9%94%81.html)
   - [分布式事务](http://interview.wzcu.com/%E8%AE%BE%E8%AE%A1%E9%A2%98/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1.html)
+- 2019-12-25
+  - 增加了一些选择题 
+      - [笔试选择题](http://interview.wzcu.com/Golang/%E7%AC%94%E8%AF%95%E9%80%89%E6%8B%A9%E9%A2%98.html)
+
+
+
+
+
+
+
