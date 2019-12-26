@@ -87,7 +87,8 @@
 - 2019-12-25
   - 增加了一些选择题 
       - [笔试选择题](http://interview.wzcu.com/Golang/%E7%AC%94%E8%AF%95%E9%80%89%E6%8B%A9%E9%A2%98.html)
-
+- 2019-12-26
+  - [跳跃表](http://interview.wzcu.com/Redis/%E8%B7%B3%E8%B7%83%E8%A1%A8.html)
 
 
 
