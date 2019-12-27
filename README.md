@@ -21,6 +21,8 @@ The repo for interview
   - [Redis](http://interview.wzcu.com/Redis/Redis.html)
   - [压缩列表和连锁更新](http://interview.wzcu.com/Redis/%E5%8E%8B%E7%BC%A9%E5%88%97%E8%A1%A8.html)
   - [跳跃表](http://interview.wzcu.com/Redis/%E8%B7%B3%E8%B7%83%E8%A1%A8.html)
+  - [rehash](http://interview.wzcu.com/Redis/rehash.html)
+
 - 操作系统
   - [操作系统](http://interview.wzcu.com/Linux/linux.html)
   - [写时复制](http://interview.wzcu.com/Linux/%E5%86%99%E6%97%B6%E5%A4%8D%E5%88%B6.html)
