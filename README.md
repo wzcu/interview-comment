@@ -4,7 +4,7 @@
 
 > 欢迎关注公众号
 
-![公众号](./static/qrcode.jpg)
+![公众号](http://static.wzcu.com/qrcode.jpg)
 
 
 ## [http://interview.wzcu.com/](http://interview.wzcu.com/)
