@@ -1,7 +1,7 @@
 # INTERVIEW
 
 
-<img src="/static/red_rocket02.png" alt="logo" style="width: 15%;">
+<div align=center><img src="/static/red_rocket02.png" alt="logo" style="width: 15%;"></div>
 
 # 面试造火箭,上班拧螺丝! 火箭抛光! 技术抛光....
 
