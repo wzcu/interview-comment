@@ -105,7 +105,8 @@
   - 元旦在家刷金刚呢..
 - 2020-01-02
   - 更新docker相关知识一篇  [Docker核心技术与实现原理](http://interview.wzcu.com/%E4%BA%91/docker%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86.html)    
-
+- 2020-01-03
+  - 停更三天,要出门
 
 
 
