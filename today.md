@@ -107,6 +107,8 @@
   - 更新docker相关知识一篇  [Docker核心技术与实现原理](http://interview.wzcu.com/%E4%BA%91/docker%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86.html)    
 - 2020-01-03
   - 停更三天,要出门
-
+- 2020-01-06
+  - 还是在看文章,但是没总结好!先把以前的 树相关的复制过来吧!跳转博客读的话不太方便
+  - [树,二叉树,平衡二叉树,红黑树,B树等逐步深入了解](http://interview.wzcu.com/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A0%91,%E4%BA%8C%E5%8F%89%E6%A0%91,%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91,%E7%BA%A2%E9%BB%91%E6%A0%91,B%E6%A0%91%E7%AD%89%E9%80%90%E6%AD%A5%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3.html)
 
 

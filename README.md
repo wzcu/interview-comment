@@ -37,6 +37,8 @@
   - [协议](http://interview.wzcu.com/网络/协议.html) 
 - 数据结构
   - [数据结构](http://interview.wzcu.com/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.html)
+  - [树,二叉树,平衡二叉树,红黑树,B树等逐步深入了解](http://interview.wzcu.com/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A0%91,%E4%BA%8C%E5%8F%89%E6%A0%91,%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91,%E7%BA%A2%E9%BB%91%E6%A0%91,B%E6%A0%91%E7%AD%89%E9%80%90%E6%AD%A5%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3.html)
+
 - 云
   - [云](http://interview.wzcu.com/%E4%BA%91/readme.html) 
   - [docker基础了解](http://interview.wzcu.com/%E4%BA%91/docker%E5%9F%BA%E7%A1%80%E4%BA%86%E8%A7%A3.html) 
