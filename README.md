@@ -52,6 +52,8 @@
   - [一致性hash](http://interview.wzcu.com/%E8%AE%BE%E8%AE%A1%E9%A2%98/%E4%B8%80%E8%87%B4%E6%80%A7hash.html)
   - [数据库分片](http://interview.wzcu.com/%E8%AE%BE%E8%AE%A1%E9%A2%98/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%88%86%E7%89%87.html)
   - [✭✭分布式事务](http://interview.wzcu.com/%E8%AE%BE%E8%AE%A1%E9%A2%98/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1.html)
+  - [亿级用户的分布式数据存储解决方案](http://interview.wzcu.com/%E8%AE%BE%E8%AE%A1%E9%A2%98/%E4%BA%BF%E7%BA%A7%E7%94%A8%E6%88%B7%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.html)
+
 - 算法
   - [简单算法](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95.html)  
   - [回朔算法](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/%E5%9B%9E%E6%9C%94%E7%AE%97%E6%B3%95.html)  
