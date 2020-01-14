@@ -58,9 +58,9 @@
     - [Redis中哨兵是什么？](http://interview.wzcu.com/Redis/Redis.html#redis%E4%B8%AD%E5%93%A8%E5%85%B5%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F)
     - [Redis哨兵系统是怎么实现自动故障转移的？](http://interview.wzcu.com/Redis/Redis.html#redis%E5%93%A8%E5%85%B5%E7%B3%BB%E7%BB%9F%E6%98%AF%E6%80%8E%E4%B9%88%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%8A%A8%E6%95%85%E9%9A%9C%E8%BD%AC%E7%A7%BB%E7%9A%84%EF%BC%9F)
   - 操作系统
-    - [Linux I/O模型一共有哪些？](http://interview.wzcu.com/Linux/linux.html#linux-io%E6%A8%A1%E5%9E%8B%E4%B8%80%E5%85%B1%E6%9C%89%E5%93%AA%E4%BA%9B%EF%BC%9F)
-    - [同步与异步的区别是什么？](http://interview.wzcu.com/Linux/linux.html#%E5%90%8C%E6%AD%A5%E4%B8%8E%E5%BC%82%E6%AD%A5%E7%9A%84%E5%8C%BA%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F)
-    - [阻塞与非阻塞的区别是什么？](http://interview.wzcu.com/Linux/linux.html#%E9%98%BB%E5%A1%9E%E4%B8%8E%E9%9D%9E%E9%98%BB%E5%A1%9E%E7%9A%84%E5%8C%BA%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F)
+    - [Linux I/O模型一共有哪些？](http://interview.wzcu.com/System/System.html#linux-io%E6%A8%A1%E5%9E%8B%E4%B8%80%E5%85%B1%E6%9C%89%E5%93%AA%E4%BA%9B%EF%BC%9F)
+    - [同步与异步的区别是什么？](http://interview.wzcu.com/System/System.html#%E5%90%8C%E6%AD%A5%E4%B8%8E%E5%BC%82%E6%AD%A5%E7%9A%84%E5%8C%BA%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F)
+    - [阻塞与非阻塞的区别是什么？](http://interview.wzcu.com/System/System.html#%E9%98%BB%E5%A1%9E%E4%B8%8E%E9%9D%9E%E9%98%BB%E5%A1%9E%E7%9A%84%E5%8C%BA%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F)
   - 网络
     - [孤儿进程,僵尸进程,守护进程？](http://interview.wzcu.com/%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%BB%9C.html#%E5%AD%A4%E5%84%BF%E8%BF%9B%E7%A8%8B%E5%83%B5%E5%B0%B8%E8%BF%9B%E7%A8%8B%E5%AE%88%E6%8A%A4%E8%BF%9B%E7%A8%8B%EF%BC%9F)    
     - [写时复制(Copy On Write)？](http://interview.wzcu.com/%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%BB%9C.html#%E5%86%99%E6%97%B6%E5%A4%8D%E5%88%B6copy-on-write%EF%BC%9F)    
@@ -89,7 +89,7 @@
       - [笔试选择题](http://interview.wzcu.com/Golang/%E7%AC%94%E8%AF%95%E9%80%89%E6%8B%A9%E9%A2%98.html)
 - 2019-12-26
   - [跳跃表](http://interview.wzcu.com/Redis/%E8%B7%B3%E8%B7%83%E8%A1%A8.html)
-  - [写时复制](http://interview.wzcu.com/Linux/%E5%86%99%E6%97%B6%E5%A4%8D%E5%88%B6.html)
+  - [写时复制](http://interview.wzcu.com/System/%E5%86%99%E6%97%B6%E5%A4%8D%E5%88%B6.html)
 - 2019-12-27
   - [rehash](http://interview.wzcu.com/Redis/rehash.html)
 - 2019-12-28
@@ -125,4 +125,6 @@
   - 陪发小逛逛 潘家园, 搞一对 核桃 进行抛光
 - 2020-01-13
   - 调度build!  不过再钻钻细节
-             
+- 2020-01-14
+  - 更新几篇知识点
+  - 不贴地址了,有需要的,自己找找看吧
