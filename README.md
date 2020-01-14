@@ -15,6 +15,8 @@
   * [代码考题](http://interview.wzcu.com/Golang/%E4%BB%A3%E7%A0%81%E8%80%83%E9%A2%98.html)
   * [笔试选择题](http://interview.wzcu.com/Golang/%E7%AC%94%E8%AF%95%E9%80%89%E6%8B%A9%E9%A2%98.html)
   * [内存对齐](http://interview.wzcu.com/Golang/golang%E5%86%85%E5%AD%98%E5%AF%B9%E9%BD%90.html)
+  * [CSP模型](http://interview.wzcu.com/Golang/CSP.html)
+  * [goroutine](http://interview.wzcu.com/Golang/goroutine.html)
 
 - 数据库
   - [MySQL](http://interview.wzcu.com/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL.html)
