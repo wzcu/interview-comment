@@ -9,6 +9,8 @@
 
 ## [http://interview.wzcu.com/](http://interview.wzcu.com/)
 
+[今日更新日志](./today.md)
+
 * Golang
   
   * [基础](http://interview.wzcu.com/Golang/%E5%9F%BA%E7%A1%80.html)
@@ -112,5 +114,5 @@
     - [设计链表](http://interview.wzcu.com/Leetcode/code/design_linked_list/)
     - [螺旋矩阵 II](http://interview.wzcu.com/Leetcode/code/spiral_matrix_ii/)
     - [螺旋矩阵](http://interview.wzcu.com/Leetcode/code/spiral_matrix/) 
-     
+    - [二叉树的序列化和反序列化](http://interview.wzcu.com/Leetcode/code/serialize-and-deserialize-binary-tree/)
 [今日更新日志](./today.md)
