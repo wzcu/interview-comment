@@ -1,5 +1,16 @@
 # 写下今天更新了啥
 
+
+
+- 2021-07-20
+  - [TCP重传机制](http://interview.wzcu.com/%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%8D%8F%E8%AE%AE/TCP%E9%87%8D%E4%BC%A0%E6%9C%BA%E5%88%B6.html)
+  - [TCP的拥塞控制](http://interview.wzcu.com/%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%8D%8F%E8%AE%AE/TCP%E7%9A%84%E6%8B%A5%E5%A1%9E%E6%8E%A7%E5%88%B6.html)
+  - 在协议里新增了一些题目,都是经典的面试题
+    -[协议](http://interview.wzcu.com/%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%8D%8F%E8%AE%AE/%E5%8D%8F%E8%AE%AE.html)
+- 2021-07-19
+  - [Linux系统init详解](http://interview.wzcu.com/System/Linux%E7%B3%BB%E7%BB%9Finit%E8%AF%A6%E8%A7%A3.html)
+  
+
 - 2021-07-08
   - 来个困难的算法题(其实写了好几天): [二叉树的序列化和反序列化](http://interview.wzcu.com/Leetcode/code/serialize-and-deserialize-binary-tree/)
 - 2021-05-31
