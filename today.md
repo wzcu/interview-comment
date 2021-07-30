@@ -1,6 +1,21 @@
 # 写下今天更新了啥
 
-
+- 2021-07-30
+  - 基本都是近期更新的,没有提交代码而已
+  - [二叉树中所有距离为K的结点](http://interview.wzcu.com/Leetcode/code/all-nodes-distance-k-in-binary-tree/)
+  - [二叉树寻路](http://interview.wzcu.com/Leetcode/code/path-in-zigzag-labelled-binary-tree/)
+  - [Excel 表列序号](http://interview.wzcu.com/Leetcode/code/excel-sheet-column-number/)
+  * [分布式事务](http://interview.wzcu.com/%E5%88%86%E5%B8%83%E5%BC%8F/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1.html)
+    * [2PC协议](http://interview.wzcu.com/%E5%88%86%E5%B8%83%E5%BC%8F/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1/2PC%E5%8D%8F%E8%AE%AE.html)
+    * [3PC协议](http://interview.wzcu.com/%E5%88%86%E5%B8%83%E5%BC%8F/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1/3PC%E5%8D%8F%E8%AE%AE.html)
+    * [XA协议](http://interview.wzcu.com/%E5%88%86%E5%B8%83%E5%BC%8F/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1/XA%E5%8D%8F%E8%AE%AE.html)
+    * [TCC](http://interview.wzcu.com/%E5%88%86%E5%B8%83%E5%BC%8F/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1/TCC.html)
+    * [事务消息](http://interview.wzcu.com/%E5%88%86%E5%B8%83%E5%BC%8F/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1/%E4%BA%8B%E5%8A%A1%E6%B6%88%E6%81%AF.html)
+    * [本地事务表](http://interview.wzcu.com/%E5%88%86%E5%B8%83%E5%BC%8F/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1/%E6%9C%AC%E5%9C%B0%E4%BA%8B%E5%8A%A1%E8%A1%A8.html)
+    * [最大努力通知](http://interview.wzcu.com/%E5%88%86%E5%B8%83%E5%BC%8F/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1/%E6%9C%80%E5%A4%A7%E5%8A%AA%E5%8A%9B%E9%80%9A%E7%9F%A5.html)
+    * [Saga模式](http://interview.wzcu.com/%E5%88%86%E5%B8%83%E5%BC%8F/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1/saga%E6%A8%A1%E5%BC%8F.html)
+  * [分布式锁](http://interview.wzcu.com/%E5%88%86%E5%B8%83%E5%BC%8F/%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81/%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81.html)
+  - [time wait和close wait](http://interview.wzcu.com/%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%8D%8F%E8%AE%AE/closewait%E5%92%8Ctimewait.html)
 
 - 2021-07-20
   - [TCP重传机制](http://interview.wzcu.com/%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%8D%8F%E8%AE%AE/TCP%E9%87%8D%E4%BC%A0%E6%9C%BA%E5%88%B6.html)

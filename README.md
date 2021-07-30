@@ -45,6 +45,7 @@
   - [协议](http://interview.wzcu.com/网络/协议.html)
   - [TCP重传机制](http://interview.wzcu.com/%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%8D%8F%E8%AE%AE/TCP%E9%87%8D%E4%BC%A0%E6%9C%BA%E5%88%B6.html)
   - [TCP的拥塞控制](http://interview.wzcu.com/%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%8D%8F%E8%AE%AE/TCP%E7%9A%84%E6%8B%A5%E5%A1%9E%E6%8E%A7%E5%88%B6.html)
+  - [time wait和close wait](http://interview.wzcu.com/%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%8D%8F%E8%AE%AE/closewait%E5%92%8Ctimewait.html)
   - [gRPC和protobuf](http://interview.wzcu.com/%E7%BD%91%E7%BB%9C/gRPC%E5%92%8Cprotobuf.html) 
 - 数据结构
   - [数据结构](http://interview.wzcu.com/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.html)
@@ -54,6 +55,17 @@
   - [云](http://interview.wzcu.com/%E4%BA%91/readme.html) 
   - [docker基础了解](http://interview.wzcu.com/%E4%BA%91/docker%E5%9F%BA%E7%A1%80%E4%BA%86%E8%A7%A3.html) 
   - [Docker核心技术与实现原理](http://interview.wzcu.com/%E4%BA%91/docker%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86.html)
+- 分布式
+  * [分布式事务](http://interview.wzcu.com/%E5%88%86%E5%B8%83%E5%BC%8F/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1.html)
+      * [2PC协议](http://interview.wzcu.com/%E5%88%86%E5%B8%83%E5%BC%8F/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1/2PC%E5%8D%8F%E8%AE%AE.html)
+      * [3PC协议](http://interview.wzcu.com/%E5%88%86%E5%B8%83%E5%BC%8F/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1/3PC%E5%8D%8F%E8%AE%AE.html)
+      * [XA协议](http://interview.wzcu.com/%E5%88%86%E5%B8%83%E5%BC%8F/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1/XA%E5%8D%8F%E8%AE%AE.html)
+      * [TCC](http://interview.wzcu.com/%E5%88%86%E5%B8%83%E5%BC%8F/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1/TCC.html)
+      * [事务消息](http://interview.wzcu.com/%E5%88%86%E5%B8%83%E5%BC%8F/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1/%E4%BA%8B%E5%8A%A1%E6%B6%88%E6%81%AF.html)
+      * [本地事务表](http://interview.wzcu.com/%E5%88%86%E5%B8%83%E5%BC%8F/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1/%E6%9C%AC%E5%9C%B0%E4%BA%8B%E5%8A%A1%E8%A1%A8.html)
+      * [最大努力通知](http://interview.wzcu.com/%E5%88%86%E5%B8%83%E5%BC%8F/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1/%E6%9C%80%E5%A4%A7%E5%8A%AA%E5%8A%9B%E9%80%9A%E7%9F%A5.html)
+      * [Saga模式](http://interview.wzcu.com/%E5%88%86%E5%B8%83%E5%BC%8F/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1/saga%E6%A8%A1%E5%BC%8F.html)
+  * [分布式锁](http://interview.wzcu.com/%E5%88%86%E5%B8%83%E5%BC%8F/%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81/%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81.html)
 - 设计题
   - [并发](http://interview.wzcu.com/%E8%AE%BE%E8%AE%A1%E9%A2%98/%E5%B9%B6%E5%8F%91%E9%97%AE%E9%A2%98.html)
   - [带有权重的随机算法](http://interview.wzcu.com/%E8%AE%BE%E8%AE%A1%E9%A2%98/%E5%B8%A6%E6%9C%89%E6%9D%83%E9%87%8D%E7%9A%84%E9%9A%8F%E6%9C%BA%E7%AE%97%E6%B3%95.html)
@@ -130,5 +142,8 @@
     - [螺旋矩阵](http://interview.wzcu.com/Leetcode/code/spiral_matrix/) 
     - [二叉树的序列化和反序列化](http://interview.wzcu.com/Leetcode/code/serialize-and-deserialize-binary-tree/)
     - [区间列表的交集](http://interview.wzcu.com/Leetcode/code/interval-list-intersections/)
+    - [二叉树中所有距离为K的结点](http://interview.wzcu.com/Leetcode/code/all-nodes-distance-k-in-binary-tree/)
+    - [二叉树寻路](http://interview.wzcu.com/Leetcode/code/path-in-zigzag-labelled-binary-tree/)
+    - [Excel 表列序号](http://interview.wzcu.com/Leetcode/code/excel-sheet-column-number/)
 
 [今日更新日志](./today.md)
