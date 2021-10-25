@@ -22,6 +22,8 @@
   * [goroutine](http://interview.wzcu.com/Golang/goroutine.html)
   * [morestack](http://interview.wzcu.com/Golang/morestack.html)
   * [splitstack](http://interview.wzcu.com/Golang/splitstack.htm)
+  * [Go内存分配](http://interview.wzcu.com/Golang/Go%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D.html)
+  * [Go的垃圾回收机制](http://interview.wzcu.com/Golang/Go%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6.html)
 
 - 数据库
   - [MySQL](http://interview.wzcu.com/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL.html)
@@ -36,20 +38,30 @@
 
 - 操作系统
   - [操作系统](http://interview.wzcu.com/System/System.html)
+  - [mmap](http://interview.wzcu.com/System/mmap.html)
+  - [零拷贝](http://interview.wzcu.com/System/%E9%9B%B6%E6%8B%B7%E8%B4%9D.html)
   - [写时复制](http://interview.wzcu.com/System/%E5%86%99%E6%97%B6%E5%A4%8D%E5%88%B6.html)
+  - [进程和线程](http://interview.wzcu.com/System/%E8%BF%9B%E7%A8%8B%E5%92%8C%E7%BA%BF%E7%A8%8B.html)
   - [Linux系统init详解](http://interview.wzcu.com/System/Linux%E7%B3%BB%E7%BB%9Finit%E8%AF%A6%E8%A7%A3.html)
+  - [select_poll_epoll详解](http://interview.wzcu.com/System/select_poll_epoll.html)
+  - [调度算法(进程、页面、磁盘)](http://interview.wzcu.com/System/%E8%B0%83%E5%BA%A6%E7%AE%97%E6%B3%95.html)
 - 网络与协议
   - [网络](http://interview.wzcu.com/%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%BB%9C.html)
-  - [HTTPS原理](http://interview.wzcu.com/%E7%BD%91%E7%BB%9C/HTTPS%E5%8E%9F%E7%90%86.html) 
-  - [Nginx](http://interview.wzcu.com/%E7%BD%91%E7%BB%9C/nginx.html) 
   - [协议](http://interview.wzcu.com/网络/协议.html)
+  - [Nginx](http://interview.wzcu.com/%E7%BD%91%E7%BB%9C/nginx.html) 
+  - [HTTPS原理](http://interview.wzcu.com/%E7%BD%91%E7%BB%9C/HTTPS%E5%8E%9F%E7%90%86.html) 
+  - [TCP校验和](http://interview.wzcu.com/%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%8D%8F%E8%AE%AE/TCP%E6%A0%A1%E9%AA%8C%E5%92%8C.html)
   - [TCP重传机制](http://interview.wzcu.com/%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%8D%8F%E8%AE%AE/TCP%E9%87%8D%E4%BC%A0%E6%9C%BA%E5%88%B6.html)
   - [TCP的拥塞控制](http://interview.wzcu.com/%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%8D%8F%E8%AE%AE/TCP%E7%9A%84%E6%8B%A5%E5%A1%9E%E6%8E%A7%E5%88%B6.html)
-  - [time wait和close wait](http://interview.wzcu.com/%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%8D%8F%E8%AE%AE/closewait%E5%92%8Ctimewait.html)
   - [gRPC和protobuf](http://interview.wzcu.com/%E7%BD%91%E7%BB%9C/gRPC%E5%92%8Cprotobuf.html) 
+  - [time wait和close wait](http://interview.wzcu.com/%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%8D%8F%E8%AE%AE/closewait%E5%92%8Ctimewait.html)
 - 数据结构
   - [数据结构](http://interview.wzcu.com/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.html)
   - [树,二叉树,平衡二叉树,红黑树,B树等逐步深入了解](http://interview.wzcu.com/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A0%91,%E4%BA%8C%E5%8F%89%E6%A0%91,%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91,%E7%BA%A2%E9%BB%91%E6%A0%91,B%E6%A0%91%E7%AD%89%E9%80%90%E6%AD%A5%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3.html)
+
+- 流行组件
+  - 消息队列
+    - [如何保证消息的顺序性](http://interview.wzcu.com/%E6%B5%81%E8%A1%8C%E7%BB%84%E4%BB%B6/%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/%E5%A6%82%E4%BD%95%E4%BF%9D%E8%AF%81%E6%B6%88%E6%81%AF%E7%9A%84%E9%A1%BA%E5%BA%8F%E6%80%A7.html) 
 
 - 云
   - [云](http://interview.wzcu.com/%E4%BA%91/readme.html) 
