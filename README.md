@@ -89,16 +89,16 @@
   - [✭✭分布式事务](http://interview.wzcu.com/%E8%AE%BE%E8%AE%A1%E9%A2%98/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1.html)
   - [亿级用户的分布式数据存储解决方案](http://interview.wzcu.com/%E8%AE%BE%E8%AE%A1%E9%A2%98/%E4%BA%BF%E7%BA%A7%E7%94%A8%E6%88%B7%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.html)
 
-- 面经(正在补充和写答案)
-  - [腾讯]()
-  - [头条]()
-  - [百度]()
-  - [阿里]()
-  - [美团]()
-  - [金山]()
-  - [快手]()
-  - [小米]()
-  - [其他]()
+- 面经(正在补充)
+  - [腾讯](http://interview.wzcu.com/interview/tencent.html)
+  - [字节](http://interview.wzcu.com/interview/bytedance.html)
+  - [百度](http://interview.wzcu.com/interview/baidu.html)
+  - [阿里](http://interview.wzcu.com/interview/alibaba.html)
+  - [滴滴](http://interview.wzcu.com/interview/didi.html)
+  - [金山](http://interview.wzcu.com/interview/kingsoft.html)
+  - [快手](http://interview.wzcu.com/interview/kuaishou.html)
+  - [小米](http://interview.wzcu.com/interview/mi.html)
+  - [其他](http://interview.wzcu.com/interview/other.html)
 
 - 算法
   - [简单算法](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95.html)  
@@ -120,6 +120,9 @@
       - [✭✭堆排序](http://interview.wzcu.com/%E7%AE%97%E6%B3%95/%E7%BB%8F%E5%85%B8%E6%8E%92%E5%BA%8F/heapSort.html) 
 - 其他
   - [时间复杂度](http://interview.wzcu.com/other/time.html)
+- 文章转载
+  - [玩转Golang单元测试](http://interview.wzcu.com/Article/Golang%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95.html)
+  - [高德打车稳定性建设](http://interview.wzcu.com/Article/%E9%AB%98%E5%BE%B7%E6%89%93%E8%BD%A6%E7%A8%B3%E5%AE%9A%E6%80%A7%E5%BB%BA%E8%AE%BE.html)
 - 刷题
   - [Leetcode](http://interview.wzcu.com/Leetcode/Leetcode.html)
     - [删除链表中的节点](http://interview.wzcu.com/Leetcode/code/delete_node)
